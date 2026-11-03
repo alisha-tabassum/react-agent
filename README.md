@@ -2,7 +2,7 @@
 
 An autonomous AI research agent built on the **ReAct (Reason + Act)** pattern — it thinks before it acts, deciding on its own what to search for, reading live results from the web, and refining its approach until it's confident enough to answer.
 
-**Live demo:** _add your Streamlit Cloud link here_
+**Live demo:** https://react-agent-6z5zkcxfcm6kkhko5ti3xt.streamlit.app/
 
 ## What it does
 
